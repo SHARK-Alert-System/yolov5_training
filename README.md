@@ -10,7 +10,7 @@ augie-doebling-sharkspotting <br>
 -mAP50-95: 0.567 <br>
 -P: 0.894 <br>
 -R: 0.818 <br>
--labels: <br>
+-labels:
 - boat
 - dolphin
 - person
@@ -24,7 +24,7 @@ d4ms-marine-sharks-synthetic <br>
 -mAP50-95: 0.535 <br>
 -P: 0.87 <br>
 -R: 0.845 <br>
--Labels:<br>
+-Labels:
   - boat
   - dolphin
   - person
