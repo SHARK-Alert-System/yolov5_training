@@ -10,6 +10,12 @@ augie-doebling-sharkspotting <br>
 -mAP50-95: 0.567 <br>
 -P: 0.894 <br>
 -R: 0.818 <br>
+-labels: <br>
+- boat
+- dolphin
+- person
+- shark<br>
+
 
 d4ms-marine-sharks-synthetic <br>
 -Instances: 1132 <br>
@@ -18,3 +24,18 @@ d4ms-marine-sharks-synthetic <br>
 -mAP50-95: 0.535 <br>
 -P: 0.87 <br>
 -R: 0.845 <br>
+-Labels:<br>
+  - boat
+  - dolphin
+  - person
+  - sealion
+  - shark<br>
+
+
+sharks-hsbfu-sharkspotting-uqso9 <br>
+-Instances: <br>
+-Images: <br>
+-mAP50: <br>
+-mAP50-95: <br>
+-P: <br>
+-R:<br>
