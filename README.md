@@ -1,6 +1,6 @@
 # yolov5 model training and results
 
-## This document includes the training pipelnes and open source weights for different shark spotting models with yolov5.
+###  This document includes the training pipelnes and open source weights for different shark spotting models with yolov5. <br>
 
 
 augie-doebling-sharkspotting <br>
