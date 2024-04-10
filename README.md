@@ -24,10 +24,10 @@ d4ms-marine-sharks-synthetic <br>
 
 
 sharks-hsbfu-sharkspotting-uqso9 <br>
--Instances: <br>
--Images: <br>
--mAP50: <br>
--mAP50-95: <br>
--P: <br>
--R:<br>
+-Instances: 1852 <br> 
+-Images: 774 <br>
+-mAP50: 0.867 <br> 
+-mAP50-95: 0.55<br>
+-P: 0.861<br>
+-R: 0.855<br>
 -Labels: boat, other animal, person, shark<br>
